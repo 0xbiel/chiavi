@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name teclas-rescue)(type Legacy)(uri ${KIPRJMOD}/teclas-rescue.lib)(options "")(descr ""))
+)
