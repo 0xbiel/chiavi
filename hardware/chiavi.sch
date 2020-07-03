@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "teclas breakdown"
+Title "chiavi breakdown"
 Date "2020-05-10"
 Rev "1.0"
 Comp "bap research"
@@ -135,7 +135,7 @@ F 3 "~" H 3550 3300 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L teclas-rescue:XTAL-XTAL X1
+L chiavi-rescue:XTAL-XTAL-teclas-rescue X1
 U 1 1 5EBA8FFC
 P 4200 3100
 F 0 "X1" V 4154 3230 50  0000 L CNN

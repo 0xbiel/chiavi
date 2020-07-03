@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# XTAL-XTAL
+# XTAL-XTAL-teclas-rescue
 #
-DEF XTAL-XTAL X 0 40 N N 1 L N
+DEF XTAL-XTAL-teclas-rescue X 0 40 N N 1 L N
 F0 "X" -100 150 50 H V L BNN
-F1 "XTAL-XTAL" -150 -200 50 H V L BNN
+F1 "XTAL-XTAL-teclas-rescue" -150 -200 50 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST

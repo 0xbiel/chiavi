@@ -135,7 +135,7 @@ F 3 "~" H 3550 3300 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L XTAL:XTAL X1
+L teclas-rescue:XTAL-XTAL X1
 U 1 1 5EBA8FFC
 P 4200 3100
 F 0 "X1" V 4154 3230 50  0000 L CNN

@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name teclas-rescue)(type Legacy)(uri ${KIPRJMOD}/teclas-rescue.lib)(options "")(descr ""))
+  (lib (name chiavi-rescue)(type Legacy)(uri ${KIPRJMOD}/chiavi-rescue.lib)(options "")(descr ""))
 )
